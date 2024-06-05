@@ -1,6 +1,6 @@
 # godot-readings
 
-大概就是个个人向的 godot 源码阅读(?)  
+大概就是个个人向的 [godot](https://github.com/godotengine/godot) 源码阅读(?)  
 不过限于本人能力你可能在这里找不到你想要的内容, ~~所以快逃!~~
 
 ## 主体内容
