@@ -13,6 +13,7 @@
 - OpenGL 后端(Compatibility)上的最基础的渲染
 - DisplayServer / RenderingServer
 - 脱离场景系统使用纯 Servers
+- 与 `.NET` `C#` 的交互
 - 我也不知道我还能看懂些别的啥了
 
 ## 题外话
