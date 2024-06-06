@@ -9,7 +9,7 @@
 
 - 获取 / 编译源码
 - Windows 上的入口点及初始化步骤
-- 场景系统
+- MainLoop 以及 2D 视口
 - OpenGL 后端(Compatibility)上的最基础的渲染
 - DisplayServer / RenderingServer
 - 脱离场景系统使用纯 Servers
